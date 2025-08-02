@@ -14,7 +14,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-with-flexbox-clamp-and-media-queries-yj9PRSpTXG)
+- Live Site URL: [Product Preview Card](https://clembrulee.github.io/product-preview-card/)
 
 ## My process
 
